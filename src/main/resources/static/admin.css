@@ -1,0 +1,43 @@
+.nav-ul {
+	list-style: none;
+}
+
+.nav-li {
+	padding: 5px 14px;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+.nav-li>a, .nav-li>a:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.app-title, .app-title:hover {
+	font-size: 28px;
+	color: white;
+}
+
+.logout-btn {
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+.page-block {
+	display: box;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.delete-table {
+	margin: 15px auto;
+	width: 60% !important;
+}
+
+.assign-i-table {
+	margin: 15px auto;
+	width: 80% !important;
+}
